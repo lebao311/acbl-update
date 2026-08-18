@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.0",
+    "date":  "2026-08-18",
+    "notes":  [
+                  "Thêm nút \"Cập nhật\" và tự kiểm tra bản mới ngay trong app",
+                  "Hiển thị số phiên bản + màn Giới thiệu",
+                  "Tự động cập nhật qua GitHub, key cũ vẫn dùng"
+              ]
+}
