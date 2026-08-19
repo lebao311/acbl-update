@@ -1,8 +1,9 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "date":  "2026-08-20",
     "notes":  [
-                  "Hiển thị lại thông tin thẻ thanh toán (Payment) chính xác.",
-                  "Thêm giao diện nhiều tab: bấm nút [+] để mở nhiều phiên đăng nhập song song (mỗi tab một IP/proxy/job riêng)."
+                  "Sửa lỗi giao diện nhiều tab: nhúng ứng dụng vào tab ổn định, hết lỗi nhấp nháy khi mở/đóng tab.",
+                  "Một tab bị treo không còn làm đơ cả cửa sổ - chuyển tab, đổi cỡ, đóng tab luôn mượt.",
+                  "Nút [+] tự khóa khi đã mở tối đa tab; bấm chuột giữa lên tab để đóng nhanh."
               ]
 }
