@@ -1,7 +1,8 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "date":  "2026-08-20",
     "notes":  [
-                  "Cải thiện \u0026 sửa lỗi."
+                  "Hiển thị lại thông tin thẻ thanh toán (Payment) chính xác.",
+                  "Thêm giao diện nhiều tab: bấm nút [+] để mở nhiều phiên đăng nhập song song (mỗi tab một IP/proxy/job riêng)."
               ]
 }
