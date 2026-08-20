@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "date":  "2026-08-20",
     "notes":  [
-                  "Sua loi mo NHIEU TAB khong luu ket qua: nay chay bao nhieu tab cung ghi du free/admin/2fa/expired, khong con mat.",
-                  "Checkpoint tu-nho (resume) an toan khi chay nhieu tab cung luc."
+                  "Nut \u0027Proxy free\u0027 nhanh hon han: khong con treo cho 1 nguon rua, tai xong trong vai giay (truoc day cho ~10-15s tuong bi dung).",
+                  "Nut \u0027Proxy free\u0027 hien so giay dang tai de biet no dang chay, va tu bo qua nguon cham/loi."
               ]
 }
