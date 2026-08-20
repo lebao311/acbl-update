@@ -1,9 +1,8 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "date":  "2026-08-20",
     "notes":  [
-                  "Sửa lỗi giao diện nhiều tab: nhúng ứng dụng vào tab ổn định, hết lỗi nhấp nháy khi mở/đóng tab.",
-                  "Một tab bị treo không còn làm đơ cả cửa sổ - chuyển tab, đổi cỡ, đóng tab luôn mượt.",
-                  "Nút [+] tự khóa khi đã mở tối đa tab; bấm chuột giữa lên tab để đóng nhanh."
+                  "Sua loi mo NHIEU TAB khong luu ket qua: nay chay bao nhieu tab cung ghi du free/admin/2fa/expired, khong con mat.",
+                  "Checkpoint tu-nho (resume) an toan khi chay nhieu tab cung luc."
               ]
 }
