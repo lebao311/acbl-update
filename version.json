@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.7",
-    "date":  "2026-08-20",
+    "version":  "1.0.8",
+    "date":  "2026-08-21",
     "notes":  [
-                  "Mo tool nhieu lan = nhieu cua so rieng (bo giao dien tab cho gon, het giat/nhap nhay).",
-                  "Giao dien gon dep hon: bo nut Tidy va Save JSON (ket qua van tu luu ra thu muc result, dung \"Copy shown\" de copy).",
-                  "Toi uu nhe hon, khoi dong muot hon."
+                  "Tor IP nhanh + manh hon: nhieu IP song song hon (toi ~4000), bootstrap nhanh, poll muot.",
+                  "Cap nhat gio TU cap nhat ca trinh khoi dong -\u003e sau khi cap nhat, mo tool nhieu lan = nhieu cua so (khong phai copy tay).",
+                  "Cap nhat xong CHAY SACH: tu quen lich su chay cu (vi tri \"Start at line\"), khong lan trang thai cu."
               ]
 }
