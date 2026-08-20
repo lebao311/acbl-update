@@ -1,8 +1,9 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "date":  "2026-08-20",
     "notes":  [
-                  "Nut \u0027Proxy free\u0027 nhanh hon han: khong con treo cho 1 nguon rua, tai xong trong vai giay (truoc day cho ~10-15s tuong bi dung).",
-                  "Nut \u0027Proxy free\u0027 hien so giay dang tai de biet no dang chay, va tu bo qua nguon cham/loi."
+                  "Mo tool nhieu lan = nhieu cua so rieng (bo giao dien tab cho gon, het giat/nhap nhay).",
+                  "Giao dien gon dep hon: bo nut Tidy va Save JSON (ket qua van tu luu ra thu muc result, dung \"Copy shown\" de copy).",
+                  "Toi uu nhe hon, khoi dong muot hon."
               ]
 }
