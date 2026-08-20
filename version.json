@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "date":  "2026-08-21",
     "notes":  [
-                  "Tor IP nhanh + manh hon: nhieu IP song song hon (toi ~4000), bootstrap nhanh, poll muot.",
-                  "Cap nhat gio TU cap nhat ca trinh khoi dong -\u003e sau khi cap nhat, mo tool nhieu lan = nhieu cua so (khong phai copy tay).",
-                  "Cap nhat xong CHAY SACH: tu quen lich su chay cu (vi tri \"Start at line\"), khong lan trang thai cu."
+                  "Proxy free MANH SIEU CAP: them nguon (~70 nguon), gom toi 200k proxy tho -\u003e loc con SONG.",
+                  "Giu toi 600 proxy SONG cung luc, check live 500 con song song -\u003e loc sieu nhanh.",
+                  "Live pool tu cao bu manh hon (toi 6000/lan) + thuong xuyen hon (22s) -\u003e pool luon day, khong bao gio can proxy."
               ]
 }
