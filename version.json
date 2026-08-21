@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.9",
+    "version":  "1.0.10",
     "date":  "2026-08-21",
     "notes":  [
-                  "Proxy free MANH SIEU CAP: them nguon (~70 nguon), gom toi 200k proxy tho -\u003e loc con SONG.",
-                  "Giu toi 600 proxy SONG cung luc, check live 500 con song song -\u003e loc sieu nhanh.",
-                  "Live pool tu cao bu manh hon (toi 6000/lan) + thuong xuyen hon (22s) -\u003e pool luon day, khong bao gio can proxy."
+                  "Sửa lỗi Tor bị kẹt/thoát khi mở nhiều cửa sổ cùng lúc: mỗi cửa sổ dùng dải cổng + dữ liệu riêng nên không còn tranh nhau.",
+                  "Mở 2-3 cửa sổ chạy Tor song song mượt, không lỗi; vẫn giữ \"kịch kim\" (rất nhiều IP Tor).",
+                  "Tự dọn dữ liệu Tor thừa từ phiên cũ bị treo -\u003e đỡ đầy ổ đĩa, khởi động Tor ổn định hơn."
               ]
 }
