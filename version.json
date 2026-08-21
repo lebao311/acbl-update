@@ -1,9 +1,8 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "date":  "2026-08-21",
     "notes":  [
-                  "Sửa lỗi Tor bị kẹt/thoát khi mở nhiều cửa sổ cùng lúc: mỗi cửa sổ dùng dải cổng + dữ liệu riêng nên không còn tranh nhau.",
-                  "Mở 2-3 cửa sổ chạy Tor song song mượt, không lỗi; vẫn giữ \"kịch kim\" (rất nhiều IP Tor).",
-                  "Tự dọn dữ liệu Tor thừa từ phiên cũ bị treo -\u003e đỡ đầy ổ đĩa, khởi động Tor ổn định hơn."
+                  "Nút nguồn giờ \"ấn đâu dùng đó\": bấm \"Tor IP\" = chỉ dùng Tor, bấm \"Proxy free\" = chỉ dùng Free, bấm cả hai = gộp cả hai.",
+                  "Không còn cảnh bấm 1 nút mà tự kéo luôn nguồn kia; phiên chỉ Tor sẽ không tự trộn proxy free vào nữa."
               ]
 }
