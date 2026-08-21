@@ -1,8 +1,9 @@
 {
-    "version":  "1.0.11",
+    "version":  "1.0.12",
     "date":  "2026-08-21",
     "notes":  [
-                  "Nút nguồn giờ \"ấn đâu dùng đó\": bấm \"Tor IP\" = chỉ dùng Tor, bấm \"Proxy free\" = chỉ dùng Free, bấm cả hai = gộp cả hai.",
-                  "Không còn cảnh bấm 1 nút mà tự kéo luôn nguồn kia; phiên chỉ Tor sẽ không tự trộn proxy free vào nữa."
+                  "Tor giờ SIÊU CẤP: bootstrap nhanh gấp ~3 lần (gieo sẵn cache mạng Tor -\u003e chỉ vài giây thay vì 30-60s từ lần chạy thứ 2).",
+                  "Nhiều IP Tor hơn: tăng số tiến trình Tor (tối đa 48) + số IP song song (tối đa 8000) -\u003e pool exit IP dày hơn.",
+                  "Số IP hiện lên nhanh hơn (tạo lane 300/nhịp) + circuit build tức thì -\u003e bấm Tor là thấy IP tăng vù vù."
               ]
 }
