@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.12",
-    "date":  "2026-08-21",
+    "version":  "1.0.13",
+    "date":  "2026-08-22",
     "notes":  [
-                  "Tor giờ SIÊU CẤP: bootstrap nhanh gấp ~3 lần (gieo sẵn cache mạng Tor -\u003e chỉ vài giây thay vì 30-60s từ lần chạy thứ 2).",
-                  "Nhiều IP Tor hơn: tăng số tiến trình Tor (tối đa 48) + số IP song song (tối đa 8000) -\u003e pool exit IP dày hơn.",
-                  "Số IP hiện lên nhanh hơn (tạo lane 300/nhịp) + circuit build tức thì -\u003e bấm Tor là thấy IP tăng vù vù."
+                  "Tang toc: proxy free bo qua con chet nhanh hon (het canh treo hang chuc giay khi gap proxy hong).",
+                  "Tang toc: kiem chung IP \u0026 cao proxy nhe hon, do socket, chay muot hon khi lam voi nhieu proxy.",
+                  "Toi uu bo nho \u0026 CPU luc khoi dong va lam moi proxy."
               ]
 }
