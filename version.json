@@ -1,9 +1,7 @@
 {
-    "version":  "1.0.13",
-    "date":  "2026-08-22",
+    "version":  "1.0.14",
+    "date":  "2026-08-23",
     "notes":  [
-                  "Tang toc: proxy free bo qua con chet nhanh hon (het canh treo hang chuc giay khi gap proxy hong).",
-                  "Tang toc: kiem chung IP \u0026 cao proxy nhe hon, do socket, chay muot hon khi lam voi nhieu proxy.",
-                  "Toi uu bo nho \u0026 CPU luc khoi dong va lam moi proxy."
+                  "Cải thiện \u0026 sửa lỗi."
               ]
 }
