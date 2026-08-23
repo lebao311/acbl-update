@@ -1,7 +1,8 @@
 {
-    "version":  "1.0.15",
+    "version":  "1.0.16",
     "date":  "2026-08-23",
     "notes":  [
-                  "Cải thiện \u0026 sửa lỗi."
+                  "Sua loi: khi dung o \"+ cuoi pass\" (them ky tu vao cuoi mat khau), ket qua xuat ra file \u0026 nut Copy gio ghi ĐUNG mat khau da dang nhap duoc (co ky tu them), khong con ghi mat khau goc thieu ky tu.",
+                  "Toi uu: dem so IP khac nhau khi Test proxy nhanh hon (bo phep loc trung cham khi danh sach lon)."
               ]
 }
