@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.17",
+    "version":  "1.0.18",
     "date":  "2026-08-23",
     "notes":  [
-                  "Them muc loc \"Local (sai quoc gia)\": tach rieng cac acc dang nhap duoc nhung bi chan vi sai vi tri/quoc gia (Conditional Access).",
-                  "Nhung acc \"local\" gio xuat ra file rieng local.txt, khong lan vao danh sach that bai nua."
+                  "Acc bi loi mang/proxy (No connection) khong con bi sot: tu dong luu ra file thu-lai.txt de import chay lai.",
+                  "Them bo loc \"Loi mang (thu lai)\" + dem so acc chua check duoc."
               ]
 }
