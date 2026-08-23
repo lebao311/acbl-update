@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.18",
+    "version":  "1.0.19",
     "date":  "2026-08-23",
     "notes":  [
-                  "Acc bi loi mang/proxy (No connection) khong con bi sot: tu dong luu ra file thu-lai.txt de import chay lai.",
-                  "Them bo loc \"Loi mang (thu lai)\" + dem so acc chua check duoc."
+                  "Acc bi loi mang/proxy (\"No connection\") gio TU DONG chay lai ngay tren tool - khong xuat file, khong phai import lai.",
+                  "Tool tu thu lai nhieu vong den khi login duoc; het cach moi bo (acc van hien o bo loc \"Loi mang\")."
               ]
 }
