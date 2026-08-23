@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.16",
+    "version":  "1.0.17",
     "date":  "2026-08-23",
     "notes":  [
-                  "Sua loi: khi dung o \"+ cuoi pass\" (them ky tu vao cuoi mat khau), ket qua xuat ra file \u0026 nut Copy gio ghi ĐUNG mat khau da dang nhap duoc (co ky tu them), khong con ghi mat khau goc thieu ky tu.",
-                  "Toi uu: dem so IP khac nhau khi Test proxy nhanh hon (bo phep loc trung cham khi danh sach lon)."
+                  "Them muc loc \"Local (sai quoc gia)\": tach rieng cac acc dang nhap duoc nhung bi chan vi sai vi tri/quoc gia (Conditional Access).",
+                  "Nhung acc \"local\" gio xuat ra file rieng local.txt, khong lan vao danh sach that bai nua."
               ]
 }
