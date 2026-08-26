@@ -1,7 +1,13 @@
 {
-    "version":  "1.0.20",
-    "date":  "2026-08-23",
+    "version":  "1.0.21",
+    "date":  "2026-08-27",
     "notes":  [
-                  "Nhan Tor sua cho dung: hien \"N luong\" thay vi \"N IP\" - do la so luong chay song song, khong phai so IP rieng."
+                  "Them loai acc \"Chua co 2FA (nap duoc)\": acc bi ep 2FA nhung CHUA cai gi -\u003e co the tu nap 2FA cua minh vao.",
+                  "Loai nay xuat ra file rieng nap-2fa.txt + co bo loc + dem so, tach khoi 2FA da cai san (cung, khong vao duoc).",
+                  "Them nut \"Psiphon\" - nguon IP THAT, sach, it bi Microsoft chan hon Tor. Bam la app TU TAI \u0026 chay, moi IP mot quoc gia khac nhau, gop chung voi Tor/Proxy free. CHI doi IP trong tool, KHONG can quyen admin.",
+                  "Psiphon chon nuoc: CHUOT PHAI nut \"Psiphon\" de chon 1 trong 21 nuoc (My, Anh, Nhat, Duc, Sing...) hoac de \"Tat ca\" cho da dang IP nhieu nuoc.",
+                  "Tor len IP NHANH hon HAN: sua loi so IP dang tang thi bi dung som -\u003e gio chay du toi hang nghin luong, o proxy khong con giat lag.",
+                  "Them nhieu nguon Proxy free moi (da kiem con song) -\u003e nhieu IP hon.",
+                  "Sua loi bam Start bi \"do do cham cham\" sau khi da chay 1 lan HOAC sau khi bat Tor IP: app nhe hon han, muot ca luc login voi hang nghin IP Tor (bo hang nghin luong nen thua + het quet lai o proxy moi lan Start)."
               ]
 }
