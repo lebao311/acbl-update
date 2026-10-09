@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.23",
-    "date":  "2026-10-09",
+    "version":  "1.0.24",
+    "date":  "2026-10-10",
     "notes":  [
-                  "Toi uu Psiphon: khong con treo \"Not Responding\" khi dang len nhieu IP.",
-                  "Giam manh log Psiphon (nhe RAM/o dia hon), chay muot ca khi bung toi 10 IP."
+                  "Nut VPN gio co 2 nguon: VPN Gate (nhieu nuoc) + Riseup VPN (EU, khong can tai khoan).",
+                  "Chuot phai nut VPN de chon nguon + quoc gia. Van la split-tunnel: chi doi IP dang nhap Azure."
               ]
 }
