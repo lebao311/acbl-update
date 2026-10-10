@@ -1,11 +1,7 @@
 {
-    "version":  "1.0.29",
+    "version":  "1.0.30",
     "date":  "2026-10-10",
     "notes":  [
-                  "Sua nut \"Node IP\": truoc bao \"loi UNKNOWN\" -\u003e nay chay dung, bung toi 100 IP moi lan.",
-                  "VPN: chua cai OpenVPN thi tu cai giup (bam Yes o cua so Windows 1 lan), cai xong tu noi VPN.",
-                  "VPN: them \"Tu xoay IP khi bi chan\" (chuot phai nut VPN) - bi chan thi tu doi nguon/server lay IP moi.",
-                  "Node IP tu tai sing-box co link du phong (may bi chan GitHub van tai duoc).",
-                  "Sua: bat VPN roi tich Use proxy khong con bao loi \"list is empty\"."
+                  "VPN tu cai OpenVPN: nhan dien \"cai xong\" chinh xac hon (theo doi truc tiep OpenVPN, khong con bao nham \"chua cai\")."
               ]
 }
