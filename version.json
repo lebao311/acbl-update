@@ -1,10 +1,11 @@
 {
-    "version":  "1.0.28",
+    "version":  "1.0.29",
     "date":  "2026-10-10",
     "notes":  [
-                  "Them nut \"Node IP\": gom nhieu IP free (SS/VMess/VLESS/Trojan) qua sing-box, toi da 100 IP moi lan bat.",
-                  "Node IP tu tai sing-box lan dau, co link du phong (may bi chan GitHub van tai duoc).",
-                  "VPN: them \"Tu xoay IP khi bi chan\" (chuot phai nut VPN) - bi throttle thi tu doi nguon/server lay IP moi.",
-                  "Sua: bat VPN roi tich Use proxy khong con bao loi \"list is empty\" (tu chay thang qua VPN)."
+                  "Sua nut \"Node IP\": truoc bao \"loi UNKNOWN\" -\u003e nay chay dung, bung toi 100 IP moi lan.",
+                  "VPN: chua cai OpenVPN thi tu cai giup (bam Yes o cua so Windows 1 lan), cai xong tu noi VPN.",
+                  "VPN: them \"Tu xoay IP khi bi chan\" (chuot phai nut VPN) - bi chan thi tu doi nguon/server lay IP moi.",
+                  "Node IP tu tai sing-box co link du phong (may bi chan GitHub van tai duoc).",
+                  "Sua: bat VPN roi tich Use proxy khong con bao loi \"list is empty\"."
               ]
 }
