@@ -1,8 +1,10 @@
 {
-    "version":  "1.0.24",
+    "version":  "1.0.28",
     "date":  "2026-10-10",
     "notes":  [
-                  "Nut VPN gio co 2 nguon: VPN Gate (nhieu nuoc) + Riseup VPN (EU, khong can tai khoan).",
-                  "Chuot phai nut VPN de chon nguon + quoc gia. Van la split-tunnel: chi doi IP dang nhap Azure."
+                  "Them nut \"Node IP\": gom nhieu IP free (SS/VMess/VLESS/Trojan) qua sing-box, toi da 100 IP moi lan bat.",
+                  "Node IP tu tai sing-box lan dau, co link du phong (may bi chan GitHub van tai duoc).",
+                  "VPN: them \"Tu xoay IP khi bi chan\" (chuot phai nut VPN) - bi throttle thi tu doi nguon/server lay IP moi.",
+                  "Sua: bat VPN roi tich Use proxy khong con bao loi \"list is empty\" (tu chay thang qua VPN)."
               ]
 }
