@@ -1,7 +1,8 @@
 {
-    "version":  "1.0.30",
-    "date":  "2026-10-10",
+    "version":  "1.0.31",
+    "date":  "2026-10-11",
     "notes":  [
-                  "VPN tu cai OpenVPN: nhan dien \"cai xong\" chinh xac hon (theo doi truc tiep OpenVPN, khong con bao nham \"chua cai\")."
+                  "Them nut \"Nord IP\": dang nhap qua NordVPN tra phi, moi account mot IP sach khac nhau (can tai khoan Nord + service credentials).",
+                  "VPN auto-xoay thong minh hon: tu hoc \u0026 uu tien server tot, xoay IP som hon khi bi chan nen it account bi mat hon."
               ]
 }
