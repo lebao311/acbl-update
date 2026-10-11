@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.33",
+    "version":  "1.0.34",
     "date":  "2026-10-11",
     "notes":  [
-                  "Nord IP: phan biet dung \"het phien\" (tai khoan dang dung o may khac / qua nhieu ket noi) voi \"sai creds\" - khi het phien se GIU creds va bao ro, khong con xoa nham creds dung."
+                  "Cải thiện \u0026 sửa lỗi."
               ]
 }
