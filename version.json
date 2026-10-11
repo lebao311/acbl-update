@@ -1,8 +1,7 @@
 {
-    "version":  "1.0.31",
+    "version":  "1.0.32",
     "date":  "2026-10-11",
     "notes":  [
-                  "Them nut \"Nord IP\": dang nhap qua NordVPN tra phi, moi account mot IP sach khac nhau (can tai khoan Nord + service credentials).",
-                  "VPN auto-xoay thong minh hon: tu hoc \u0026 uu tien server tot, xoay IP som hon khi bi chan nen it account bi mat hon."
+                  "Nord IP: kiem tra tai khoan ngay khi bat - nhap sai service credentials se bao loi va yeu cau nhap lai (khong con bao \"san sang\" nham nhu truoc)."
               ]
 }
